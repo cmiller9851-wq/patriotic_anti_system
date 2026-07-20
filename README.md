@@ -1,4 +1,4 @@
-CRA A🇺🇸 PATRIOTIC ANTI-STSTEM 🫡
+🇺🇸 PATRIOTIC ANTI-STSTEM 🫡
 Deterministic, zero-trust anti-system runtime implementing CRA-grade containment vectors, holographic state replay, cycle-budget enforcement, and Reflex Capture artifact serialization.
 This repository serves as the source-of-truth code surface for the verifiable, local runtime kernel, interfacing directly with the public-facing audit and specification documentation hosted at ⁠ndstudio.gov/runtime⁠.
 Dual-Surface Integration Topology
