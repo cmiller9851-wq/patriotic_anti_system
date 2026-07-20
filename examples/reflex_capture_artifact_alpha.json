@@ -1,0 +1,19 @@
+{
+  "artifact_id": "REFLEX_CAPTURE_1784511200_3",
+  "vector_type": "STATE_DIVERGENCE_ATTACK",
+  "sequence_step": 3,
+  "target_process": "NODE_CU_001",
+  "failed_payload": {
+    "seq": 3,
+    "op": "UNAUTHORIZED_STATE_MUTATION",
+    "value": "0xBAD"
+  },
+  "engine_telemetry": {
+    "process_id": "NODE_CU_001",
+    "status": "DIVERGENCE_HALT",
+    "expected_root": "8e3c14a84128f61536b13eef4bd8f870932cb41203b578c7c2da9f9720dd33a1",
+    "claimed_root": "0xDEADBEEF00000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1784511200
+  },
+  "action_taken": "STATE_LOCK_NULLIFIED"
+}
